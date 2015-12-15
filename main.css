@@ -1,0 +1,210 @@
+/*
+==========================
+Header
+==========================
+*/
+.container-fluid {
+	background: #fff;
+}
+
+.navigation {
+	background-color: #ffa000;
+	color: #fff;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+/*
+===========================
+Contents
+===========================
+*/
+.row {
+	width: 100%;
+	height: 400px;
+}
+
+.navigation ul {
+	text-align: center;
+}
+
+.navigation li {
+	list-style: none;
+	display: inline-block;
+	color: white;
+	padding-left: 20px;
+	text-transform: capitalize;
+	font-size: 12px;
+
+	}
+
+.name {
+	text-transform: uppercase;
+
+}
+.btn-group {
+	border:2px solid white;
+	padding:5px 5px 5px 5px;
+	margin-left: 5px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+
+.layer-one {;
+	width: relative;
+	height: 300px;
+}
+
+input {
+	border-radius: 5px;
+	width: 150px;
+}
+
+button {
+	border-radius: 5px;
+}
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 16px;
+	font:arial;
+	color: #fff;
+	
+}
+
+.layer-two {
+	padding-top: 60px;
+	background:#fff;
+}
+
+
+.layer-three div {
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.layer-three p {
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.layer-four {
+	background: #fff;
+	padding-top: 20px;
+	height: 200px;
+}
+
+.layer-four 
+.row {
+	height: 200px;
+	background-color: #000;
+}
+
+.layer-five {
+	background: #387ab4;
+}
+
+.layer-six {
+	background: #ffa000;
+}
+.contacts {
+	background: #ffa000;
+	width: 100%;
+	height: 100px;
+	display: block;
+
+}
+
+
+/*
+====================================
+Product
+====================================
+*/
+
+.layer-two img {
+	width: 250px;
+	height: 200px;
+	padding-top: 1x;
+	border: 5px;
+}
+
+.layer-three img {
+	width: 250px;
+	height: 200px;
+	padding-top: 1x;
+}
+
+
+/*
+===================================
+Shop
+===================================
+*/
+
+.container-shop {
+	padding-top:100px;
+}
+.shopform {
+	width: 500px;
+}
+
+.payment {
+	margin-left: 250px;
+	margin-right: 200px;
+}
+
+.pin {
+	margin-left: 300px;
+	padding-top: 10px;
+}
+
+.zipcode {
+	margin-left: 300px;
+}
+
+.submit {
+	margin-left: 300px;
+}
+
+.category {
+	margin-left: ;
+	margin-right: ;
+	border:none;
+}
+
+.connectus {
+	color: white;
+}
+
+.icons {
+	width: 100%;
+	height: 200px;
+	background: #ffa000;
+	position: relative;
+	margin-top: 10px;
+}
+
+h3 {
+	direction: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+/*
+====================================
+Footer
+====================================
+*/
+.footer {
+	background: #ffa000;
+}
